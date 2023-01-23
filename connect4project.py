@@ -114,9 +114,4 @@ while (still_playing == 1):
         still_playing = 2
 
 
-# f5 for debug
-# ctrl c copy
-# ctrl v paste
-# F2 for renaming variables
 
-# To download new library go to command prompt and pip install name of library
